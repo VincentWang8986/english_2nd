@@ -58,13 +58,13 @@ timezone: Asia/Shanghai
 
 > 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。 报名需要按要求认真填写下面 [ YourName ] 自我介绍部分，方便大家互相认识，报名通过审核即可开始自主学习。
 
-# [your name]
+# Vincent
 
-[Your self-introduction should include your nickname, profession, and motivation for learning English to ensure that everyone can clearly understand your situation.]
+Hello, everyone! Nice to meet all you guys. I'm Vincent from Changsha. I'm looking for a Web3 remote job recently, so I have decided to learn English well. I've been learning English for almost a year, but I mostly just listened to TED talks. Even though I have made a lot of progress. I can understand a lot of things, and I can also communicate some basic topics now. I hope we can learn and make progress together.
 
 ## Do you think you will finish the whole CoLearning program?
 
-[Yes 100% or Maybe xx%]
+[Yes Maybe 80%]
 
 ---
 
